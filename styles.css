@@ -90,7 +90,7 @@ img {
 .header-content button {
     color: white;
     padding: 8px;
-    background-color: #24A0ED;
+    background-color: #3882f6;
     width: 90px;
     border-radius: 8px;
     border-style: none;
@@ -103,11 +103,15 @@ img {
 .cards-content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+}
+
+.card {
+    border: ;
 }
 
 .cards {
     display: flex;
     gap: 5px;
+    text-align: center;
 }
