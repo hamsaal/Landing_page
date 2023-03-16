@@ -107,7 +107,10 @@ img {
 }
 
 .card {
-    border: ;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+    inline-size: 150px;
+    block-size: 150px;
 }
 
 .cards {
