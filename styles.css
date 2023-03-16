@@ -34,12 +34,12 @@ img {
 
 .logo,
 .header-content {
-    margin-left: 18rem;
+    margin-left: 4rem;
 }
 
 .links,
 img {
-    margin-right: 16.5rem;
+    margin-right: 4rem;
 }
 
 .content-heading,
@@ -95,4 +95,19 @@ img {
     border-radius: 8px;
     border-style: none;
 
+}
+
+
+/*Website Content*/
+/*Cards-content*/
+.cards-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    gap: 5px;
 }
