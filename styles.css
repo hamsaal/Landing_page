@@ -34,12 +34,12 @@ img {
 
 .logo,
 .header-content {
-    margin-left: 8rem;
+    margin-left: 12rem;
 }
 
 .links,
 img {
-    margin-right: 8rem;
+    margin-right: 12rem;
 }
 
 .content-heading,
@@ -53,9 +53,9 @@ img {
     color: #E5E7EB;
 }
 
-/* navbar */
+/*navbar */
 
-/* .logo {
+.logo {
     font-size: 24px;
 
 }
@@ -67,7 +67,29 @@ img {
 
 }
 
+/* header */
+
 .content-heading {
     font-size: 48px;
     font-weight: extra-bold;
-} */
+}
+
+
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    inline-size: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: space-around
+}
+
+.header-content button {
+    color: white;
+    padding: 8px;
+    background-color: #24A0ED;
+    width: 90px;
+    border-radius: 12px;
+    border-style: none;
+
+}
