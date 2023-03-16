@@ -15,6 +15,59 @@ html {
 img {
     width: 400px;
     height: auto;
+    display: inline-block;
 }
 
+
+
+
+
 /* navbar x header */
+.navigation-bar,
+.header {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+    padding: 3rem;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.logo,
+.header-content {
+    margin-left: 8rem;
+}
+
+.links,
+img {
+    margin-right: 8rem;
+}
+
+.content-heading,
+.logo {
+
+    color: #F9FAF8;
+}
+
+.links,
+.content-para {
+    color: #E5E7EB;
+}
+
+/* navbar */
+
+/* .logo {
+    font-size: 24px;
+
+}
+
+.links {
+    display: flex;
+    gap: 2.5rem;
+    font-size: 18px;
+
+}
+
+.content-heading {
+    font-size: 48px;
+    font-weight: extra-bold;
+} */
