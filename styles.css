@@ -148,13 +148,23 @@ img {
 
 /* Testimonials */
 .testimonials {
+    text-align: center;
+    width: 100%;
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    align-items: center;
     padding: 4.7rem;
 }
 
 .testimonials h2,
 .testimonials h3 {
     color: #1f2937;
+}
+
+.testimonials h2 {
+    font-weight: lighter;
+    font-style: italic;
+    text-align: start;
+    width: 50%;
 }
