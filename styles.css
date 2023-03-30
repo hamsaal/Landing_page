@@ -138,13 +138,18 @@ img {
     margin-top: 5px;
 }
 
+/* Testimonialsxsignup */
+.testimonials,
+.sign-up-parent {
+    padding: 4.7rem;
+    display: flex;
+    justify-content: center;
+}
 
 /* Testimonials */
 .testimonials {
-    padding: 4.7rem;
     background-color: #E5E7EB;
-    display: flex;
-    justify-content: center;
+
 }
 
 .testimonials-content {
@@ -169,4 +174,10 @@ img {
 .testimonials h3 {
     margin-top: 10px;
     align-self: flex-end;
+}
+
+
+/*Sign-up*/
+.sign-up {
+    background-color: #3882f6;
 }
