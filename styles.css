@@ -149,10 +149,12 @@ img {
 /* Testimonials */
 .testimonials {
     background-color: #E5E7EB;
-    font-size: 36px;
-    color: #1f2937;
-    font-style: italic;
     display: flex;
     flex-direction: column;
+    padding: 4.7rem;
+}
 
+.testimonials h2,
+.testimonials h3 {
+    color: #1f2937;
 }
