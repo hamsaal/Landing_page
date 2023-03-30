@@ -146,14 +146,16 @@ img {
 }
 
 .testimonials-content {
+    width: 50%;
     text-align: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    text-align: center;
+    margin: 0 auto;
 }
 
-.testimonials h2,
-.testimonials h3 {
+.testimonials-content h2,
+.testimonials-content h3 {
     color: #1f2937;
 }
 
