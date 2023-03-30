@@ -18,6 +18,11 @@ img {
     flex: 0 0 auto;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 
 
@@ -25,11 +30,13 @@ img {
 /* navbar x header */
 .navigation-bar,
 .header {
+    width: 100%;
     display: flex;
     background-color: #1f2937;
     justify-content: space-between;
-    padding: 3rem;
-    font-family: Arial, Helvetica, sans-serif
+    padding: 3.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .logo,
