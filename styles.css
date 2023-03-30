@@ -167,5 +167,6 @@ img {
 }
 
 .testimonials h3 {
+    margin-top: 10px;
     align-self: flex-end;
 }
