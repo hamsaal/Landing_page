@@ -149,6 +149,8 @@ img {
 /* Testimonials */
 .testimonials {
     background-color: #E5E7EB;
+    margin-top: 10px;
+    margin-bottom: 10px;
 
 }
 
@@ -179,5 +181,9 @@ img {
 
 /*Sign-up*/
 .sign-up {
+    inline-size: 70%;
     background-color: #3882f6;
+    padding: 4.5rem;
+    display: flex;
+    justify-content: space-between;
 }
