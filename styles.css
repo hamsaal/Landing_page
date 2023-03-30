@@ -143,6 +143,8 @@ img {
 .testimonials {
     padding: 4.7rem;
     background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
 }
 
 .testimonials-content {
@@ -151,7 +153,6 @@ img {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin: 0 auto;
 }
 
 .testimonials-content h2,
