@@ -190,6 +190,8 @@ img {
     justify-content: space-between;
     color: #F9FAF8;
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+
 
 }
 
@@ -201,4 +203,13 @@ img {
     border-radius: 8px;
     border: 2px solid white;
 
+}
+
+/*Footer Section*/
+footer {
+    display: flex;
+    padding: 4.5rem;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #F9FAF8;
 }
