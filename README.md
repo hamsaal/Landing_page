@@ -5,4 +5,4 @@ Landing_page is one of the personal projects created to be used as landing page 
 . Applying new CSS properties such line-height.
 . Using various css properties of flex-box to align the html elements
 
-Overall, this project contains all the good css practices and in the future, this might be used as the landing page of any web application i build. Who knows whats coming next!
+Overall, this project contains all the good css practices and in the future, this might be used as the landing page of any web application i build. Who knows whats coming next! so stay tuned.
